@@ -1,0 +1,8 @@
+# Build
+build/
+
+# Visual Studio Code
+.vscode/settings.json
+
+# Macintosh
+.DS_Store
