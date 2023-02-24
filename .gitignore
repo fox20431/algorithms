@@ -1,6 +1,9 @@
 # Build
 build/
 
+# Custom Test file
+Test.cpp
+
 # Visual Studio Code
 .vscode/settings.json
 
