@@ -1,14 +1,24 @@
 # Build
 build/
+out/
+x64/
 
 # Custom Test file
 Test.cpp
 
 # Visual Studio Code
-.vscode/settings.json
+.vscode/
+
+# Visual Studio
+.vs/
+*.sln
 
 # IDEA
 .idea/
+*.iml
+
+# CLion
+cmake-build-debug/
 
 # Macintosh
 .DS_Store
