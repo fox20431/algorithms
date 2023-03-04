@@ -1,6 +1,6 @@
-# LeetCode
+# Algorithms
 
-本项目为个人解算法题项目，包括但不限于`leetcode`。
+本项目为个人解算法题项目，包括但不限于`leetcode`和`牛客网`。
 
 ## IDE
 
