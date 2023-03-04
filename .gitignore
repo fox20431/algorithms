@@ -6,6 +6,7 @@ production/
 
 # Custom Test file
 Test.cpp
+Test.java
 
 # Visual Studio Code
 .vscode/
