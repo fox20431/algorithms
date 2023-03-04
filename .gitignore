@@ -2,6 +2,7 @@
 build/
 out/
 x64/
+production/
 
 # Custom Test file
 Test.cpp
