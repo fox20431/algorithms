@@ -6,9 +6,9 @@
 
 ### Windows
 
-#### C++
+#### C/C++
 
-建议使用CLion编写代码（享受智能提示、代码跳转等增益），配合CMake工具（CLion通过CMake识别可运行代码并提供运行快捷方式）以提高效率。
+Using GCC compiler, install MinGW and set the environment variable.
 
 #### Java
 
